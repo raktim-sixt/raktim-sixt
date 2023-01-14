@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raktim-sixt&theme=highcontrast&border_radius=40)](https://git.io/streak-stats)
 
 <!--
 **raktim-sixt/raktim-sixt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
